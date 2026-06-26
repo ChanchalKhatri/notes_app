@@ -5,7 +5,7 @@ A modern, responsive notes management application built with React, Vite, and Ta
 ## Preview
 
 <!-- Add your screenshot here -->
-![Screenshot](./public/screenshot.png)
+![Screenshot](public/output.png)
 
 ## Features
 
